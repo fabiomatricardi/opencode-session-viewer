@@ -4,6 +4,10 @@ A lightweight, terminal-faithful Python web application designed to parse raw Ma
 
 This tool preserves the authentic low-lit terminal aesthetic of OpenCode—complete with collapsible agent reasoning logs (`_Thinking:_` blocks), syntax-highlighted tool executions, clear role separation, and model execution metadata.
 
+
+<img width="1528" height="892" alt="example" src="https://github.com/user-attachments/assets/44e687ed-861d-48d7-9daf-64878af2a91d" />
+
+
 ---
 
 ## 🚀 Features
